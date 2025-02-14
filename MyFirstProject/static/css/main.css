@@ -1,0 +1,14 @@
+main {
+    background-color:aliceblue;
+}
+
+header {
+    background-color:aquamarine;
+    font-weight: bolder;
+    font-size: large;    
+}
+
+footer {
+    background-color : yellowgreen;
+    color: white;
+}
